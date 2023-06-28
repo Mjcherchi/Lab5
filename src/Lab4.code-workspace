@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Lab4"
+		},
+		{
+			"path": "../../Lab1"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Lab3"
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"files.associations": {
+			"*.ino": "cpp"
+		}
+	}
+}
